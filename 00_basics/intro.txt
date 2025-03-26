@@ -1,0 +1,33 @@
+1-There is not more difference between .js file and .txt both are treated as the source code 
+2-.js k andr bhi kuch txt likha h or .txt k andr bhi kuch text likha h but 
+e.g if we write console.log("Abhinav") in js 
+and console.log(":Abhinav") in .txt so the diff between both of them is konsi file hum kisi software m inject krwake use execute krwa skte  h,
+there are lot of software like compiler , interpreter and they have the capability of understanding the syntax like first software will check
+what is the type of the extension used and then it will trwat the source code in that way like it will treat console.log that should be treated 
+in js 
+
+4-What happens in js is that jo software tha wo hidden tha browser k andr ( so jo bhot se tutoprials m dikhega like first you create index.html 
+file, then add script to that and then make a js file and then execute it ), but what happen later that jo software tha bowser m hidden use nikalke
+alg krdiya gya or kha key ab jisko standalone javascript execute krna h like we execute our python, java, cpp files  so we can execute the same way
+js also , and isse si kaafi saari cheezein or addup hogyi like ab js sirf browser lamguage or frontend language mnhi rh gyi ab js backend , bhi use hoti h ,
+mobile m bhi use hoti h and alnost sbhi jgh use hoti hai.So thats is the reason uske ane ka.
+
+5- Like we install environments for java, cpp and there are also for javascript also so ab hume iindex file bnake wha poe js sikkhen k need nhi h or
+what mosy people does that  inspect m jayeg and then console m jayenge then then then no need.
+
+
+6-We have one environment node js and it is not like key browser m jo hmesha software ata tha wo node js hi ata tha alg alg type key execution engine they
+like v8 engine and many different names also .
+
+7-There is one environment more also that is deno js
+
+
+
+Questions arrive in my mind-
+
+1-I want to ask something that node js is a software  where Javascript can run and earlier before node js the software was hidden inside the browser so what 
+that software called?
+
+2-How node js is diff from deno?And why it is need although the node has come?
+
+
