@@ -102,4 +102,56 @@ console.log(typeof NaN) //because of this
  console.log(typeof changeToStr)//String
  console.log( changeToStr)//33
 
+
+
+ //----------------------Operations-----------------------//
+
+ let value = 2
+ let negValue = -value
+ console.log(negValue);
+
+
+ console.log(2+2);
+ console.log(2-2);
+ console.log(2*2);
+ console.log(2**2);
+ console.log(2/2);
+ console.log(2%2);
+
+
+ let startName = "abhinav"
+ let lastName = " sagar"
+
+ let fullName = startName + lastName
+ console.log(fullName);
+ 
+
+ console.log( "2" + 2 ); //22
+ console.log( 2 + "2" ); //22
+ console.log( "2" + 2  + 2 ); //222
+ console.log( 2 + 2 + "2" ); //42
+
+ //And yes dont do this like 
+
+ console.log( 2 + 2 * 3 - 5 / 4 )//instead of this use paranthesis ()
+
+
+//Tricky operation
+
+console.log(true);
+
+console.log(+true); //This is very bad wrinting of code the code myse be written clean
+console.log(+false); // Output: 0 (false becomes 0)
+console.log(+null);  // Output: 0 (null is treated as 0)
+console.log(+"123"); // Output: 123 (String "123" is converted to number 123)
+console.log(+undefined); // Output: NaN (undefined cannot be converted to a number)
+console.log(+("5" + "2")); // Output: 52 (First "5" + "2" → "52", then + applied)
+
+
+//no readability
+let num2, num1, num3
+num2 = num1 = num3 = 2 + 2
+
+//read about prefix postfix js mdn
+
   
